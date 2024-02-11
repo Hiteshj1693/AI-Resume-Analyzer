@@ -1,0 +1,2 @@
+1. PDF Analysis
+2. Fetch Proper data from PDF
